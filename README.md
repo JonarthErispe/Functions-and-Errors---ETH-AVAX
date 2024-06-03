@@ -27,6 +27,7 @@ How to run the program
 * deploy
 * check if it's running
   
+```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 contract ErrorHandling {
