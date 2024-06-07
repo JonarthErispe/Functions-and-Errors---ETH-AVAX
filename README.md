@@ -1,31 +1,5 @@
 
-# Project Title
- Functions-and-Errors---ETH-AVAX
-Simple overview of use/purpose.
-This projects will check if the value you enter was an error and approve if was correct.  
-
-## Description
-
-it uses to set a value of a number that has a start value which is 10 and has a end value of 1000
-
-## Getting Started
-
-### Installing
- How/where to download your program
- Any modifications needed to be made to files/folders
-* go to https://remix.ethereum.org/
-* create an account
-* make a folder
-* create a code
-
-### Executing program
-
-How to run the program
-  Step-by-step bullets
-* create a code
-* compile it
-* deploy
-* check if it's running
+# The code
   
 ```
 // SPDX-License-Identifier: MIT
