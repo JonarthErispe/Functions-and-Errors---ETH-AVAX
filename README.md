@@ -25,8 +25,5 @@ contract ErrorHandling {
     }
 }
 
-        return _num;
-    }
-}
-```
+       
 
